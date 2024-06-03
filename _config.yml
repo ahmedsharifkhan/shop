@@ -6,6 +6,7 @@ baseurl: /shop
 url: https://ahmedsharifkhan.github.io
 
 google_analytics_key:
+google_tag_id: GTM-N72LQ2VG
 google_maps_javascript_api_key:
 snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
 snipcart_currency: "usd"
