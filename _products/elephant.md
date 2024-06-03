@@ -1,4 +1,5 @@
 ---
+layout: product
 name: Bumble the Elephant
 description_markdown: >-
   Bumble the humble elephant is your shining star. He will always remember who
@@ -7,7 +8,7 @@ description_markdown: >-
   Slim Fit, 5oz 100% Cotton T-Shirt.
 garment_type:
 price: '9.00'
-sku: elephant
+sku: big-elephant
 stock: 10
 sizes:
   - Small
@@ -22,5 +23,4 @@ styles:
     color: '#67aa79'
     image: /images/products/elephant/green.jpg
 permalink: /shop/products/elephant/
-layout: product
 ---
