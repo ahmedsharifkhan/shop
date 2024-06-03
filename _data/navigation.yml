@@ -1,4 +1,4 @@
-- name: Products
+- name: Shop
   link: /
   new_window: false
   highlight: false
